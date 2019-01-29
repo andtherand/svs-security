@@ -1,0 +1,8 @@
+{
+    "packages": {
+        "mychiara/svs-security": {
+            "dev-master": { @composer.json },
+            "1.0.x-dev": { @composer.json }
+        }
+    }
+}
