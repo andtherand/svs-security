@@ -1,6 +1,6 @@
 {
   "type": "wordpress-plugin",
-  "name": "svs-security",
+  "name": "mychiara/svs-security",
   "description": "Small plugin to remove cruft from wordpress header",
   "authors": [
     {
